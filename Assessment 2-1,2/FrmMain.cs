@@ -18,6 +18,14 @@ using System.Windows.Forms;
 
 namespace Assessment_2
 {
+	
+	
+	
+	// Programmer: Ye Liu
+	// git commit with the name in the blocl, will be removed in the later version 
+	
+	
+	
     public partial class FrmMain : Form
     {
         public FrmMain()
